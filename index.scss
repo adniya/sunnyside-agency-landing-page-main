@@ -216,12 +216,14 @@ select {
   font-weight: 900;
   text-decoration: none;
   box-shadow: 0 12px 12px var(--yellow);
+  border-bottom:5px solid var(--yellow);
 }
 .learn-red{
   background: transparent;
   font-weight: 900;
   text-decoration: none;
   box-shadow: 0 12px 12px var(--s-red);
+  border-bottom:5px solid var(--s-red);
 }
 /* primary-header */
 .container {
